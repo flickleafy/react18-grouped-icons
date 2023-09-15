@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/your-repo.git"
+    "url": "https://github.com/flickleafy/react18-grouped-icons.git"
   },
-  "author": "Your Name",
-  "license": "MIT",
+  "author": "flickleafy",
+  "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/your-username/your-repo/issues"
+    "url": "https://github.com/flickleafy/react18-grouped-icons/issues"
   },
-  "homepage": "https://github.com/your-username/your-repo#readme",
+  "homepage": "https://github.com/flickleafy/react18-grouped-icons/blob/main/README.md",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
