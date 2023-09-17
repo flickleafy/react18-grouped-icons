@@ -1,8 +1,8 @@
 /**
  * Defines the properties required for Icon components.
  */
-export interface IconProps {
+export type IconProps = {
   primaryColor: string;
   secondaryColor: string;
   className: string;
-}
+};

@@ -12,6 +12,9 @@ An example React 18 project with grouped Icon components
   - [Installation](#installation)
     - [Troubleshooting](#troubleshooting)
   - [Usage](#usage)
+    - [Development mode](#development-mode)
+    - [Test application](#test-application)
+    - [Build application](#build-application)
   - [Contributing](#contributing)
   - [Financial Contributions](#financial-contributions)
     - [How to Contribute Financially](#how-to-contribute-financially)
@@ -91,6 +94,8 @@ Delete `node_modules/` and `package-lock.json`, then reinstall dependencies.
 
 ## Usage
 
+### Development mode
+
 To run the project, use the following command:
 
 ```bash
@@ -103,7 +108,39 @@ or if you are using Yarn:
 yarn start
 ```
 
-Your application will start, and you can view it at <http://localhost:3000>.
+Your application will start, and you can view it at <http://localhost:3000>. The page will reload if you make edits. You will also see any lint errors in the console.
+
+### Test application
+
+Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+```bash
+npm test
+```
+
+or:
+
+```bash
+yarn test
+```
+
+### Build application
+
+Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+```bash
+npm run build
+```
+
+or:
+
+```bash
+yarn build
+```
 
 ## Contributing
 

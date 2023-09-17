@@ -1,3 +1,3 @@
 export { Icon1 } from './Icon1';
 export { Icon2 } from './Icon2';
-export { IconProps } from './IconProps';
+export type { IconProps } from './IconProps';
