@@ -1,3 +1,5 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
 # Logs
 logs
 *.log
@@ -26,6 +28,9 @@ coverage
 # nyc test coverage
 .nyc_output
 
+# testing
+/coverage
+
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
@@ -38,9 +43,14 @@ bower_components
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
+# production
+/build
+
 # Dependency directories
 node_modules/
 jspm_packages/
+/.pnp
+.pnp.js
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
@@ -129,3 +139,6 @@ dist
 .yarn/install-state.gz
 .pnp.*
 package-lock.json
+
+# misc
+.DS_Store
