@@ -152,8 +152,8 @@ Your financial contributions are crucial for the long-term sustainability of thi
 
 ### How to Contribute Financially
 
-One-Time Donations: PayPal or Crypto Wallets
-Recurring Donations: Become a backer or sponsor on Patreon or Open Collective
+One-Time Donations: PayPal or Crypto Wallets\
+Recurring Donations: Become a backer or sponsor on Patreon or Open Collective\
 Corporate Sponsorships: Email us for a tailored sponsorship program.
 
 ### Why Contribute Financially?
